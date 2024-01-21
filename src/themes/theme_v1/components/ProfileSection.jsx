@@ -23,10 +23,10 @@ function ProfileSection() {
               <div className="mr-2 mt-1">
                 <FontAwesomeIcon className="text-white" icon={faInstagram} />
               </div>
-              <span className="text-white">novi02</span>
+              <span className="text-white">novi0202</span>
             </div>
           </div>
-          <div className="grid place-content-center m-6">
+          <div className="grid place-content-center h-24 w-24">
             <FontAwesomeIcon
               className="text-gold text-6xl heart"
               icon={faHeart}
@@ -41,7 +41,7 @@ function ProfileSection() {
               <div className="mr-2 mt-1">
                 <FontAwesomeIcon className="text-white" icon={faInstagram} />
               </div>
-              <span className="text-white">munawier02</span>
+              <span className="text-white">munawier0202</span>
             </div>
           </div>
         </div>
