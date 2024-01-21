@@ -4,10 +4,10 @@ import bgHero from '../assets/img/bg-hero.webp';
 function HeroSection() {
   return (
     <section
-      className="min-h-dvh bg-cover bg-center"
+      className="min-h-screen bg-cover bg-center"
       style={{ backgroundImage: `url(${bgHero})` }}
     >
-      <div className="bg-black/75 min-h-dvh grid place-content-center">
+      <div className="bg-black/75 min-h-screen grid place-content-center">
         <div className="text-gold font-pinyon text-center">
           <h2 className="text-5xl md:text-6xl tracking-wider">Novita putri</h2>
           <span className="text-2xl md:text-3xl tracking-wider my-2 block">

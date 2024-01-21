@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function ProfileSection() {
   return (
-    <section className="min-h-dvh">
+    <section className="min-h-screen">
       <div className="min-h-dvh grid place-content-center">
         <div className="flex items-center justify-center flex-col md:flex-row mt-6">
           <div className="text-center">
