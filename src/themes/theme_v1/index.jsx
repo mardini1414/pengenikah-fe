@@ -9,7 +9,7 @@ import ProfileSection from './components/ProfileSection';
 
 function ThemeV1({ data }) {
   return (
-    <div className="bg-black relative min-h-dvh">
+    <div className="bg-black relative">
       <img
         className="w-[30%] md:w-[10%] absolute top-4 right-1/2 translate-x-1/2"
         src={ornamen1}
