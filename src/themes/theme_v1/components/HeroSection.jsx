@@ -45,7 +45,7 @@ function HeroSection() {
         src={ornamen5}
         alt="ornamen5"
       />
-      <div className="bg-black/75 min-h-dvh grid place-content-center">
+      <div className="bg-black/75 min-h-screen grid place-content-center">
         <Zoom>
           <span className="block text-center text-white text-base mb-6">
             UNDANGAN
