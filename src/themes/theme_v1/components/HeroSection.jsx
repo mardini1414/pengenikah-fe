@@ -12,7 +12,7 @@ import { Zoom } from 'react-reveal';
 function HeroSection() {
   return (
     <section
-      className="min-h-dvh bg-cover bg-center relative"
+      className="min-h-screen bg-cover bg-center relative"
       style={{ backgroundImage: `url(${bgHero})` }}
     >
       <img

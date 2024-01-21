@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
         gold: '#FFD700',
-        blackV1: '#001524',
+        blackV1: '#191919',
       },
       fontFamily: {
         pinyon: ['Pinyon Script', 'cursive'],
